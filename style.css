@@ -8,7 +8,19 @@
   text-align: center;
 }
 #fig-2 {
-  position: fixed;
+  position: absolute;
   top: 50px;
   left: 0px;
+  opacity: 0.87;
+}
+.img-2 {
+  width: 35%;
+  position: relative;
+  border-radius: 2%;
+}
+#art-4 {
+  border-style: solid;
+  display: inline;
+  position: absolute;
+  bottom: 50px;
 }
